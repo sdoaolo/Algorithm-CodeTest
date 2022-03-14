@@ -9,5 +9,3 @@ for _ in range(3):
 res = str(res)
 for i in range(10):
     print("{}".format(res.count(str(i))))
-    
-        
